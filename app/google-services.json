@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "833537637656",
+    "project_id": "emojistatusapp-9ac80",
+    "storage_bucket": "emojistatusapp-9ac80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833537637656:android:c628771ed0fe1ce12ab26d",
+        "android_client_info": {
+          "package_name": "com.example.emojistatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833537637656-m6i2tbqscf8a7rjkmk1jhmg2g6nbsrsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtkGI61DkjBOjDilUlneH1qowFZqfiP48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833537637656-m6i2tbqscf8a7rjkmk1jhmg2g6nbsrsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833537637656:android:6bf77307aac50e882ab26d",
+        "android_client_info": {
+          "package_name": "com.example.emojistatusapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833537637656-tvjr2l0se8pid17c1b62beaiuegdb68p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emojistatusapp",
+            "certificate_hash": "e41f43a32c963c1b197d5fd3e79c71044104adc1"
+          }
+        },
+        {
+          "client_id": "833537637656-m6i2tbqscf8a7rjkmk1jhmg2g6nbsrsc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtkGI61DkjBOjDilUlneH1qowFZqfiP48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833537637656-m6i2tbqscf8a7rjkmk1jhmg2g6nbsrsc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
